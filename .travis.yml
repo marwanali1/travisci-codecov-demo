@@ -6,4 +6,5 @@ install:
   - export PYTHONPATH=$PWD
 
 script:
-  - python3 tests/test_math_functions.py
+  # - python3 tests/test_math_functions.py
+  - coverage run -m unittest tests/test_math_functions.py
