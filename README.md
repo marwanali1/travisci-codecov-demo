@@ -1,7 +1,7 @@
 # Travis-Ci Codecov Demo
 
 [![GitHub](https://img.shields.io/github/license/marwanali1/travisci-codecov-demo?color=g)](https://github.com/marwanali1/travisci-codecov-demo/blob/develop/LICENSE)
-![Travis-CI](https://travis-ci.com/marwanali1/travisci-codecov-demo.svg?branch=develop)
+![Travis-CI](https://travis-ci.com/marwanali1/travisci-codecov-demo.svg)
 [![Codecov](https://img.shields.io/codecov/c/github/marwanali1/travisci-codecov-demo)](https://codecov.io/gh/marwanali1/travisci-codecov-demo)
 
 Repo for learning how to integrate Travis-CI and Codecov with python codebase
