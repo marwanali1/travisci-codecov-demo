@@ -3,4 +3,5 @@ language: python
 install:
   - pip install pipenv
   - pipenv install
+  - export PYTHONPATH=$PWD
   - python3 tests/test_math_functions.py
